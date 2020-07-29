@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I'm Riri. My pronouns are he/she/they. I code for a living (I also... live for ~~a~~ coding). I'm most interested in frontend development as of the moment. 
 
 <!--
 **rngueco/rngueco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
